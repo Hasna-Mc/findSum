@@ -1,0 +1,19 @@
+{
+  "name": "@hasnahafsal/findsum",
+  "version": "1.0.0",
+  "description": "\"# findSum\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hasna-Mc/findSum.git"
+  },
+  "author": "Hasna-MC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hasna-Mc/findSum/issues"
+  },
+  "homepage": "https://github.com/Hasna-Mc/findSum#readme"
+}
